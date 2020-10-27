@@ -1,13 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, I'm Hernan</h1>
-<h3 align="center">A Full stack Developer from Argentina</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, Soy Aaron</h1>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on [HenryAPP](https://henry-app-git-dev.dierodz.vercel.app/)
 
-- 📚  My hard skill are: **Javascript, Node.js , React, Redux, PostgreSQL**
+- 📚  My hard skill are: 
 
-- 🌱 I’m currently learning **React Native, Java , TensorFlow.js**
+- 🌱 I’m currently learning 
 
-- 📫 How to reach me **h.britosbogado@gmail.com**
+- 📫 How to reach me ****
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
