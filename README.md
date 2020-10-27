@@ -11,8 +11,8 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/hbritosbogado/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hbritosbogado/" height="30" width="40" /></a>
-<a href="https://instagram.com/hernibritos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hernibritos" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aaronbortnic/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/aaronbortnic/" height="30" width="40" /></a>
+<a href="https://instagram.com/aaronbortnic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hernibritos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
