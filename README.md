@@ -1,4 +1,4 @@
-<h1 align="center">Mi nombre es Aaron, tengo 22 años y soy desarrollador full stack.<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, Soy Aaron</h1>
+<h1 align="center">Hola soy Aaron, tengo 22 años y soy desarrollador full stack.<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h1>
 <h3 align="center"></h3>
 
 Me apasiona el mundo de la programación como el del audiovisual. Termine el cursado de la carrera de cine en la “Escuela Regional Cuyo de Cine y Video” de Mendoza. A partir del año 2020 me dediqué a estudiar programación haciendo cursos intensivos full stack. El primero fue en "Egg Educación" de 600hs, y el segundo en "Henry" de 700hs.
