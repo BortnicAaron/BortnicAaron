@@ -1,13 +1,15 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, Soy Aaron</h1>
+<h1 align="center">Mi nombre es Aaron, tengo 22 años y soy desarrollador full stack.<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, Soy Aaron</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on [HenryAPP](https://henry-app-git-dev.dierodz.vercel.app/)
+Me apasiona el mundo de la programación como el del audiovisual. Termine el cursado de la carrera de cine en la “Escuela Regional Cuyo de Cine y Video” de Mendoza. A partir del año 2020 me dediqué a estudiar programación haciendo cursos intensivos full stack. El primero fue en "Egg Educación" de 600hs, y el segundo en "Henry" de 700hs.
+Los dos me brindaron conocimientos en:
 
-- 📚  My hard skill are: 
+Java || JavaScript || React || Redux || NodeJs || Express || SQL || Sequelize & Postgress || MySql || HTML5 & CSS3 || Git.
 
-- 🌱 I’m currently learning 
+Además, estoy en proceso de aprendizaje de TypeScript y tengo conocimientos en
+programas de edición de video, como es Adobe Premier y DaVinci Resolve.
 
-- 📫 How to reach me ****
+Me considero alguien dedicado, entusiasta y abierto a ideas nuevas, me encanta poder trabajar en equipo y dejar mi mayor esfuerzo en todos los proyectos que hago!
 
 <video width="320" height="240" controls>
   <source src="https://discord.com/channels/763084001064779856/763084003707322393/783707218444288030" type="video/mp4">
