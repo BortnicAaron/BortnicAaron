@@ -16,7 +16,7 @@ Me considero alguien dedicado, entusiasta y abierto a ideas nuevas, me encanta p
 </video>
 
 
-<a href="www.linkedin.com/in/aaron-bortnic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/aaron-bortnic" height="30" width="40" /></a>
+<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/aaron-bortnic" height="30" width="40" /></a>
 <a href="https://instagram.com/aaronbortnic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hernibritos" height="30" width="40" /></a>
 </p>
 
