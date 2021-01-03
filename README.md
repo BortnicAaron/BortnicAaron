@@ -20,6 +20,8 @@ Me considero alguien dedicado, entusiasta y abierto a ideas nuevas, me encanta p
  <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/node.png?raw=true" width="50" height="50" align="center"/>
  <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/react.png?raw=true" width="50" height="50" align="center"/>
  <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/redux.png?raw=true" width="50" height="50" align="center"/>
+  <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/html.png?raw=true" width="50" height="50" align="center"/>
+  <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/css.png?raw=true" width="50" height="50" align="center"/>
 </p> 
 
 
