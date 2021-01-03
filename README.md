@@ -24,16 +24,15 @@ Me considero alguien dedicado, entusiasta y abierto a ideas nuevas, me encanta p
 </p> 
 
 
-# Trabajos realizados en SoyHenry
+# Trabajos realizados hasta el momento
 
-### iGiftyou
+## iGiftyou
 E-commerce realizado en grupo compuesto por 6 personas donde integramos todo lo aprendido en la academia Henry
 
 ### Resumen del proyecto
 La idea general del proyecto se basa en ingresar a la pagina con el objetivo de buscar algún producto para regalar a una persona especial. Con esta idea se incluye un apartado en donde le hacemos un cuestionario al usuario. A partir de las respuestas aparecerán 3 productos que van a ser ideales para que regales.
 Integramos desde inicio de sesion de forma local, como tambien con cuentas de Google o GitHub. Tambien tenemos la parte de admin, con una UX bastante amigable y distintas formas de agregar productos, categorias, etc.
 
-### Imagenes
 <img height="300px" width="600px" src=https://github.com/matiasnmoyano/iGiftyouE-commerce/blob/main/imgs/client5.png/> 
 
 <a href="https://www.linkedin.com/in/aaron-bortnic/"  target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
