@@ -15,11 +15,11 @@ Me considero alguien dedicado, entusiasta y abierto a ideas nuevas, me encanta p
 
 ### Technical skills:  
 <p align="center">
- <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/js.png?raw=true" width="30" height="30" align="center"/>
- <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/java.png?raw=true" width="30" height="30" align="center"/>
- <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/node.png?raw=true" width="30" height="30" align="center"/>
- <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/react.png?raw=true" width="30" height="30" align="center"/>
- <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/redux.png?raw=true" width="30" height="30" align="center"/>
+ <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/js.png?raw=true" width="50" height="50" align="center"/>
+ <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/java.png?raw=true" width="50" height="50" align="center"/>
+ <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/node.png?raw=true" width="50" height="50" align="center"/>
+ <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/react.png?raw=true" width="50" height="50" align="center"/>
+ <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/redux.png?raw=true" width="50" height="50" align="center"/>
 </p> 
 
 
