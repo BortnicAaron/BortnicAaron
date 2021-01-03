@@ -11,8 +11,6 @@ Java || JavaScript || React || Redux || NodeJs || Express || SQL || Sequelize & 
 ### Technical skills:  
 <p align="center">
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/javascript.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/c++.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/python.png" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/html5.png" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/css.png" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/react.png" width="30" height="30" align="center"/>
@@ -23,11 +21,7 @@ Java || JavaScript || React || Redux || NodeJs || Express || SQL || Sequelize & 
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/mysql.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sqlite.png" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sequelize.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/mocha.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/chai.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/jasmine.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/webpack.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/arduino.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/java.png" width="30" height="30" align="center"/>
 </p>
 
 Además, estoy en proceso de aprendizaje de TypeScript y tengo conocimientos en
