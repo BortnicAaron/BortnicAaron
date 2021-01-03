@@ -26,6 +26,16 @@ Integramos desde inicio de sesion de forma local, como tambien con cuentas de Go
 
 <img height="300px" width="600px" src=https://github.com/matiasnmoyano/iGiftyouE-commerce/blob/main/imgs/client5.png/> 
 
+## TruecApp
+E-commerce realizado en grupo compuesto por 8 personas donde integramos todo lo aprendido en la academia Egg Educación
+
+### Resumen del proyecto
+Una plataforma de trueques, donde los usuarios pueden permutar objetos/servicios por otros objetos y/o servicios.
+Para efectuar la permuta es necesario tener créditos, éstos se consiguen mediante un fee o efectuando donaciones a fundaciones inscritas en la plataforma. 
+
+<img height="300px" width="600px" src=https://github.com/matiasnmoyano/iGiftyouE-commerce/blob/main/imgs/client5.png/> 
+
+
 #
 
 <p align="center">
