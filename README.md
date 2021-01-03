@@ -14,11 +14,6 @@ programas de edición de video, como es Adobe Premier y DaVinci Resolve.
 Me considero alguien dedicado, entusiasta y abierto a ideas nuevas, me encanta poder trabajar en equipo y dejar mi mayor esfuerzo en todos los proyectos que hago!
 
 
-### Technical skills:  
-<p align="center">
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/javascript.png" width="30" height="30" align="center"/>
-</p> 
-
 <a href="https://www.linkedin.com/in/aaron-bortnic/"  target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/aaronbortnic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" /></a>
 </p>
