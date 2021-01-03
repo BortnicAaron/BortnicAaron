@@ -8,22 +8,6 @@ Los dos me brindaron conocimientos en:
 
 Java || JavaScript || React || Redux || NodeJs || Express || SQL || Sequelize & Postgress || MySql || HTML5 & CSS3 || Git.
 
-### Technical skills:  
-<p align="center">
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/javascript.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/html5.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/css.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/react.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/redux.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/nodejs.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/express.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/postgresql.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/mysql.svg" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sqlite.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sequelize.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/java.png" width="30" height="30" align="center"/>
-</p>
-
 Además, estoy en proceso de aprendizaje de TypeScript y tengo conocimientos en
 programas de edición de video, como es Adobe Premier y DaVinci Resolve.
 
