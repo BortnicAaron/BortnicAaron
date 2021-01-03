@@ -15,7 +15,7 @@ Me considero alguien dedicado, entusiasta y abierto a ideas nuevas, me encanta p
 
 ### Technical skills:  
 <p align="center">
-  <img src="https://github.com/BortnicAaron/BortnicAaron/tree/main/Img/js.png" width="30" height="30" align="center"/>
+ <img src="https://github.com/BortnicAaron/BortnicAaron/tree/main/Img/js.png" width="30" height="30" align="center"/>
  <img src="https://github.com/BortnicAaron/BortnicAaron/tree/main/Img/java.png" width="30" height="30" align="center"/>
  <img src="https://github.com/BortnicAaron/BortnicAaron/tree/main/Img/node.png" width="30" height="30" align="center"/>
  <img src="https://github.com/BortnicAaron/BortnicAaron/tree/main/Img/react.png" width="30" height="30" align="center"/>
