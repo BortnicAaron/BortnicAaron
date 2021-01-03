@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Aaron, tengo 22 años y soy desarrollador full stack.<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h1>
 <h3 align="center"></h3>
 
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2F%40garrhetsampson&psig=AOvVaw2qF2PpMi0Ax_GYNz75Crrr&ust=1609730884739000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCq-ILp_u0CFQAAAAAdAAAAABAE"> <img>
+<img align="center" src="https://images.unsplash.com/photo-1526431038803-6f6c3ee137ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMjA3fDB8MXxhbGx8MXx8fHx8fDJ8&ixlib=rb-1.2.1&q=80&w=1080"> <img>
 
 Me apasiona el mundo de la programación como el del audiovisual. Termine el cursado de la carrera de cine en la “Escuela Regional Cuyo de Cine y Video” de Mendoza. A partir del año 2020 me dediqué a estudiar programación haciendo cursos intensivos full stack. El primero fue en "Egg Educación" de 600hs, y el segundo en "Henry" de 700hs.
 Los dos me brindaron conocimientos en:
