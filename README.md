@@ -13,7 +13,7 @@ programas de edición de video, como es Adobe Premier y DaVinci Resolve.
 
 Me considero alguien dedicado, entusiasta y abierto a ideas nuevas, me encanta poder trabajar en equipo y dejar mi mayor esfuerzo en todos los proyectos que hago!
 
-### Technical skills:  
+
 <p align="center">
  <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/js.png?raw=true" width="50" height="50" align="center"/>
  <img src="https://github.com/BortnicAaron/BortnicAaron/blob/main/Img/java.png?raw=true" width="50" height="50" align="center"/>
