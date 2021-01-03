@@ -2,7 +2,6 @@
 <h3 align="center"></h3>
 
 <img align="center" src="https://wallpaperaccess.com/full/2752596.jpg"> <img>
-<script src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/index.js"></script>
 
 Me apasiona el mundo de la programación como el del audiovisual. Termine el cursado de la carrera de cine en la “Escuela Regional Cuyo de Cine y Video” de Mendoza. A partir del año 2020 me dediqué a estudiar programación haciendo cursos intensivos full stack. El primero fue en "Egg Educación" de 600hs, y el segundo en "Henry" de 700hs.
 Los dos me brindaron conocimientos en:
@@ -14,14 +13,10 @@ programas de edición de video, como es Adobe Premier y DaVinci Resolve.
 
 Me considero alguien dedicado, entusiasta y abierto a ideas nuevas, me encanta poder trabajar en equipo y dejar mi mayor esfuerzo en todos los proyectos que hago!
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=1eEnboVooiY" type="video/mp4">
-</video>
 
 ### Technical skills:  
 <p align="center">
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/javascript.png" width="30" height="30" align="center"/>
-
 </p> 
 
 <a href="https://www.linkedin.com/in/aaron-bortnic/"  target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
